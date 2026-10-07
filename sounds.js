@@ -8,6 +8,7 @@
 window.SOUNDBOARD_SOUNDS = [
   { name: "Ääniefektimies1", file: "audio/Ääniefektimies1.mp3" },
   { name: "Ääniefektimies2", file: "audio/Ääniefektimies2.mp3" },
+  { name: "Ääniefektimies2-test", file: "audio/Ääniefektimies2.mp3" },
   { name: "AJAJA", file: "audio/AJAJA.mp3" },
   { name: "allah", file: "audio/allah.mp3" },
   { name: "APT", file: "audio/APT.mp3" },
