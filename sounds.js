@@ -20,6 +20,7 @@ window.SOUNDBOARD_SOUNDS = [
   { name: "Jammu", file: "audio/Jammu.mp3" },
   { name: "KoskaHänOn", file: "audio/KoskaHänOn.mp3" },
   { name: "Kotka", file: "audio/Kotkas.mp3" },
+  { name: "Lakusonni", file: "audio/Lakusonni.mp3" },
   { name: "MunaSuuhun", file: "audio/MunaSuuhun.mp3" },
   { name: "Naiskuski", file: "audio/Naiskuski.mp3" },
   { name: "NiinNopea", file: "audio/NiinNopea.mp3" },
